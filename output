@@ -1,0 +1,115 @@
+ Welcome to the Calculator Program!
+
+Menu:
+1. Sign-up
+2. Log-in
+3. Exit
+Enter your choice (1-3): 1
+Enter a username (max 19 characters): username
+Enter a password (max 19 characters): password
+Account created successfully!
+
+Menu:
+1. Sign-up
+2. Log-in
+3. Exit
+Enter your choice (1-3): 2   
+Enter your username: username
+Enter your password: password
+Login successful.
+                 **********WELCOME TO THE SIMPLE CALCULATOR MADE BY PRAMESH ARYAL AND RABIN POUDEL**********
+                                **********CALCULATOR MENU**********
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Power
+7. Square
+8. Cube
+9. 1/X
+10. Exponent
+11. Factorial
+12. Percentage
+13. Logarithm
+14. Remainder
+15. Sin(x)
+16. Cos(x)
+17. Tan(x)
+18. Cosec(x)
+19. Sec(x)
+20. Cot(x)
+21. Matrix Addition
+22. Matrix Multiplication
+Enter your choice (1-22): 22
+Enter the number of rows and columns of the first matrix: 2 3
+Enter the number of rows and columns of the second matrix: 3 2
+Enter the elements of the first matrix:
+1 2 3 4 5 6
+Enter the elements of the second matrix:
+1 2 3 4 5 6 
+Result:
+22.00   28.00
+49.00   64.00
+Result: 0.00
+
+Do you want to do more calculations? (y/n): n
+                 ***********THANK YOU FOR USING OURCALCULATOR ***********
+                                ***********PROGRAM TERMINATED *********** Welcome to the Calculator Program!
+
+Menu:
+1. Sign-up
+2. Log-in
+3. Exit
+Enter your choice (1-3): 1
+Enter a username (max 19 characters): username
+Enter a password (max 19 characters): password
+Account created successfully!
+
+Menu:
+1. Sign-up
+2. Log-in
+3. Exit
+Enter your choice (1-3): 2   
+Enter your username: username
+Enter your password: password
+Login successful.
+                 **********WELCOME TO THE SIMPLE CALCULATOR MADE BY PRAMESH ARYAL AND RABIN POUDEL**********
+                                **********CALCULATOR MENU**********
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square Root
+6. Power
+7. Square
+8. Cube
+9. 1/X
+10. Exponent
+11. Factorial
+12. Percentage
+13. Logarithm
+14. Remainder
+15. Sin(x)
+16. Cos(x)
+17. Tan(x)
+18. Cosec(x)
+19. Sec(x)
+20. Cot(x)
+21. Matrix Addition
+22. Matrix Multiplication
+Enter your choice (1-22): 22
+Enter the number of rows and columns of the first matrix: 2 3
+Enter the number of rows and columns of the second matrix: 3 2
+Enter the elements of the first matrix:
+1 2 3 4 5 6
+Enter the elements of the second matrix:
+1 2 3 4 5 6 
+Result:
+22.00   28.00
+49.00   64.00
+Result: 0.00
+
+Do you want to do more calculations? (y/n): n
+                 ***********THANK YOU FOR USING OURCALCULATOR ***********
+                                ***********PROGRAM TERMINATED ***********
