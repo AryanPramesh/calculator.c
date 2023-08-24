@@ -5,7 +5,7 @@ char user[100];
 
 
 void printMenu() {
-    printf("\t\t **********WELCOME TO THE SIMPLE CALCULATOR MADE BY PRAMESH ARYAL AND RABIN POUDEL**********\n");
+    printf("\t\t **********WELCOME TO THE SIMPLE CALCULATOR MADE BY PRAMESH ARYAL**********\n");
     printf("\t\t \t\t**********CALCULATOR MENU**********\n");
     printf("1. Addition\n");
     printf("2. Subtraction\n");
