@@ -1,3 +1,5 @@
+// A calculator That can do normal calculation ,trigonametric calculations,matrix calculations etc//
+//This program is written by Pramesh Aryal //
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
